@@ -2,7 +2,7 @@
 
 Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University
 
-- 🔭 I’m currently working on a webservice analogous to examine.com, built from scratch which 
+- 🔭 I’m currently working on a webservice analogous to examine.com, built from scratch and trying to digitalize biohacking relevant trials making software-based analysis easier. 
 - 🌱 I’m currently learning Jest and PostgreSQL
 - ⚡ Fun fact: I play 🎾 & 🎹, and I love 🍉
 
