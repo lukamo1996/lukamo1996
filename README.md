@@ -6,9 +6,10 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at Universi
 - 🌱 I’m currently learning Jest and PostgreSQL
 - ⚡ Fun fact: I play 🎾 & 🎹, and I love 🍉
 
-### Links:
-<img align="left" alt="Python" width="26px" src="./icons/linkedin.png" />
-<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>Feel to contact me on LinkedIn</a></strong>
+---
+
+### Reach me at:
+<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>I'm on LinkedIn</a></strong>
 
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
@@ -33,6 +34,7 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at Universi
 <img align="left" alt="Puppeteer" width="26px" src="./icons/puppeteer.png" />
 <img align="left" alt="jQuery" width="26px" src="./icons/jquery.png" />
 <img align="left" alt="JSON" width="26px" src="./icons/json.png" />
+<img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
 
 <br>
 
