@@ -1,5 +1,7 @@
 # Hi, I'm Luka 👋
 
+### Automate everything
+
 Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
 
 - ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch and trying to digitalize certain categories of biohacking relevant trials making software-based analysis easier
