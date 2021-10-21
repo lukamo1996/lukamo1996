@@ -21,7 +21,7 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 
 ### Frameworks
 <img align="left" alt="Vue" width="26px" src="./icons/vue.png" />
-<img align="left" alt="Express" width="26px" src="./icons/express.png" />
+<img align="left" alt="Express" width="34px" src="./icons/express.png" />
 <img align="left" alt="Firebase" width="26px" src="./icons/firebase.png" />
 <img align="left" alt="Node.js" width="26px" src="./icons/nodejs.png" />
 <br>
