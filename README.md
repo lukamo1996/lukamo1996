@@ -1,6 +1,6 @@
 # Hi, I'm Luka 👋
 
-### Automate everything
+### Automate everything😎
 
 Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
 
