@@ -6,7 +6,7 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 
 - ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch and trying to digitalize certain categories of biohacking relevant trials making software-based analysis easier
 - 💡 I’m currently learning Jest and PostgreSQL
-- 🎨 Hobbie:s I play 🎾 & 🏋️
+- 🎨 Hobbie: 🎾 & 🏋️
 
 ---
 
