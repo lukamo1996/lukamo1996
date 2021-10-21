@@ -9,7 +9,7 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at Universi
 ---
 
 ### Reach me at:
-<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>I'm on LinkedIn</a></strong>
+<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>LinkedIn</a></strong>
 
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
@@ -49,25 +49,3 @@ Take a look at some of my most recent projects on Github!
 - 🎮 Snake Game created with the P5.js JavaScript library ([code here...](https://github.com/sondreandersen96/simple_snake_p5_js)) ([try it out here...](https://sondreandersen96.github.io/simple_snake_p5_js/index.html))
 - 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
 - 🎓 Code used in MBA Master's Thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
-
-
-
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<a href="mailto:me@mail.com">📬 E-mail</a></strong>
--->
