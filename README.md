@@ -11,6 +11,13 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 ---
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 21 mins   ████████████████▓░░░░░░░░   66.64 % 
+Python       2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Other        1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Java         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+```
 <!--END_SECTION:waka-->
 
 ### Reach me at:
