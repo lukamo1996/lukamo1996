@@ -1,5 +1,7 @@
 # Hi, I'm Luka 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-835b37194/)
+
 ### Automate everything😎
 
 Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
@@ -10,6 +12,7 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 
 ---
 
+#### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 21 mins   ████████████████▓░░░░░░░░   66.64 % 
@@ -20,8 +23,12 @@ Bash         14 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### Reach me at:
-<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>LinkedIn</a></strong>
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukamo1996&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukamo1996&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
@@ -49,13 +56,3 @@ Bash         14 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
 
 <br>
-
-### Latest projects
-Take a look at some of my most recent projects:
-
-- 🌀 Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
-- 🚨 An Undetectable AdBlocker Chrome Extension ([here...](https://github.com/lukamo1996/undetectableAdblocker))
-- ✍ Job aggregation web-service built with Vue to simplify job-searching for developers ([here...](https://github.com/lukamo1996/jobbifi))
-- 💬 Reddit-clone built for Clinical Trials with Vue and Firebase ([here...](https://github.com/lukamo1996/g-r-e-l-i-n))
-- � Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
-- 🌀 Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
