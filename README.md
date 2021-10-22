@@ -1,14 +1,13 @@
-# Hi, I'm Luka 👋
+# Hi, I'm Luka 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-835b37194/)
 
-### Automate everything😎
-
-Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
+Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I received a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
 
 - ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch, trying to automate categorization of clinical trials and make software-based analysis easier
 - 💡 I’m currently learning PostgreSQL
 - 🎨 Hobbies: 🎾 & 🏋️
+### Automate everything😎
 
 ---
 
@@ -22,9 +21,9 @@ Java         18 mins         ▓░░░░░░░░░░░░░░░░
 Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
+<br>
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukamo1996&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukamo1996&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
