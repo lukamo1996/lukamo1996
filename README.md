@@ -32,7 +32,7 @@ Bash         14 mins         ▒░░░░░░░░░░░░░░░░
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.png" />
-<img align="left" alt="Java" width="26px" src="./icons/java.png" />
+<img align="left" alt="Java" width="20px" src="./icons/java.png" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html.png" />
 <img align="left" alt="CSS3" width="26px" src="./icons/css.png" />
 <br>
