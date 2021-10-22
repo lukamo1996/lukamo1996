@@ -4,14 +4,14 @@
 
 Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I recieved a Bachelor's Degree in Medical Laboratory Science at Oslomet - Metropolitan University.
 
-- ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch, trying to automate categorization of clinical trials and mak software-based analysis easier
+- ⛏ I’m currently working on a webservice analogous to examine.com, built from scratch, trying to automate categorization of clinical trials and make software-based analysis easier
 - 💡 I’m currently learning PostgreSQL
-- 🎨 Hobbie: 🎾 & 🏋️
+- 🎨 Hobbies: 🎾 & 🏋️
 
 ---
 
 ### Reach me at:
-<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>I'm on LinkedIn</a></strong>
+<strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>LinkedIn</a></strong>
 
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
@@ -41,16 +41,11 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 <br>
 
 ### Latest projects
-Take a look at some of my most recent projects on Github!
+Take a look at some of my most recent projects:
 
-- 👨🏻‍💼 Currently working on a secret project with React and Strava's API...
-- 🧠 Java Maze Solver using recursion ([here...](https://github.com/sondreandersen96/mazeSolverJava))
-- 👾 Space Invaders Replica in Python and PyGame Zero ([here...](https://github.com/sondreandersen96/space_invaders)) 
-- 📈 Simple Stock Trading Dashboard created with React ([here...](https://github.com/sondreandersen96/obx_chart_front_end))
-- 🃏 Black Jack Engine/Simulation in Python ([here...](https://github.com/sondreandersen96/black_jack_simulation))
-- 🎮 Snake Game created with the P5.js JavaScript library ([code here...](https://github.com/sondreandersen96/simple_snake_p5_js)) ([try it out here...](https://sondreandersen96.github.io/simple_snake_p5_js/index.html))
-- 🪐 Solar System Illustration created with the P5.js JavaScript library ([here...](https://github.com/sondreandersen96/p5_js---Solar-System-Illustration))
-- 🎓 Code used in MBA Master's Thesis (Python and R) ([here...](https://github.com/sondreandersen96/masters_thesis_code))
-
-
-
+- 🌀 Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
+- 🚨 An Undetectable AdBlocker Chrome Extension ([here...](https://github.com/lukamo1996/undetectableAdblocker))
+- ✍ Job aggregation web-service built with Vue to simplify job-searching for developers ([here...](https://github.com/lukamo1996/jobbifi))
+- 💬 Reddit-clone built for Clinical Trials with Vue and Firebase ([here...](https://github.com/lukamo1996/g-r-e-l-i-n))
+- � Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
+- 🌀 Java Maze Solver using a recursive path-finding algorithm ([here...](https://github.com/lukamo1996/MazeSolverJava))
