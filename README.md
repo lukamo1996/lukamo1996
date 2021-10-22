@@ -10,6 +10,9 @@ Hi! My name is Luka Momcilovic and I'm Computer Science (CS) student at the Univ
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Reach me at:
 <strong><a href='https://www.linkedin.com/in/luka-momcilovic-835b37194/'>LinkedIn</a></strong>
 
