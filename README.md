@@ -53,6 +53,6 @@ Bash         14 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="jQuery" width="26px" src="./icons/jquery.png" />
 <img align="left" alt="JSON" width="26px" src="./icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
-<img align="left" alt="Insomnia" width="26px" src="./icons/insomnia.png" />
+<img align="left" alt="Insomnia" width="26px" src="./icons/insomnia.jpg" />
 
 <br>
