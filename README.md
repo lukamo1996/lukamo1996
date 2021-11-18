@@ -50,7 +50,7 @@ SQL          4 mins          ░░░░░░░░░░░░░░░░░
 <img align="left" alt="Wordpress" width="26px" src="./icons/wordpress.png" />
 <img align="left" alt="Terminal" width="26px" src="./icons/cli.png" />
 <img align="left" alt="Puppeteer" width="26px" src="./icons/puppeteer.png" />
-<img align="left" alt="jQuery" width="26px" src="./icons/jquery.png" />
+<img align="left" alt="jQuery" width="26px" src="./icons/jquery2.png" />
 <img align="left" alt="JSON" width="26px" src="./icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
 <img align="left" alt="Insomnia" width="26px" src="./icons/insomnia.jpg" />
