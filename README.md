@@ -54,5 +54,7 @@ SQL          4 mins          ░░░░░░░░░░░░░░░░░
 <img align="left" alt="JSON" width="26px" src="./icons/json.png" />
 <img align="left" alt="Bootstrap" width="26px" src="./icons/bootstrap.png" />
 <img align="left" alt="Insomnia" width="26px" src="./icons/insomnia.jpg" />
+<img align="left" alt="Slack" width="26px" src="./icons/slack.jpg" />
+<img align="left" alt="Pageclip" width="26px" src="./icons/pageclip.jpg" />
 
 <br>
