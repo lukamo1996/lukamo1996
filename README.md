@@ -1,11 +1,11 @@
 # Hi, I'm Luka 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-2102b4226/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-2102b4226//)
 
 Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I received a Bachelor's Degree in [Medical Laboratory Science](https://www.oslomet.no/studier/hv/bioingenioer) at Oslomet - Metropolitan University.
 
-- ⛏ I’m currently working on 1 new secret project!
-- 💡 I’m currently learning MySQL (It's better than PostgreSQL)
+- ⛏ I’m currently working on a dating app.
+- 💡 I’m currently learning MySQL and Ionic (It's better than PostgreSQL)
 - 🎨 Hobbies: 🎾 & 🏋️
 ### Automate everything😎
 
