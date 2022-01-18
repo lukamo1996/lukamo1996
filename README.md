@@ -4,8 +4,8 @@
 
 Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I received a Bachelor's Degree in [Medical Laboratory Science](https://www.oslomet.no/studier/hv/bioingenioer) at Oslomet - Metropolitan University.
 
-- ⛏ I’m currently working on a dating app.
-- 💡 I’m currently learning MySQL and Ionic (It's better than PostgreSQL)
+- ⛏ I’m currently working on a dating app and some wiki-stuff
+- 💡 I’m currently learning MySQL and Ionic
 - 🎨 Hobbies: 🎾 & 🏋️
 ### Automate everything😎
 
