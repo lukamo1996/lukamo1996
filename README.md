@@ -14,9 +14,7 @@ Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/stu
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Vue.js       47 mins         ███████████████████▒░░░░░   77.28 % 
-CSS          10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+
 ```
 <!--END_SECTION:waka-->
 <br>
