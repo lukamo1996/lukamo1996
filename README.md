@@ -7,7 +7,6 @@ Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/stu
 - ⛏ I’m currently working on a dating app ❤
 - 💡 I’m currently learning MySQL, Ionic and Aws-services (S3 precisely)
 - 🎨 Hobbies: 🎾 & 🏋️
-### Automate everything😎
 
 ---
 
