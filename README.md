@@ -14,12 +14,12 @@ Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/stu
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript    12 hrs 45 mins  ████████████████▒░░░░░░░░   65.88 %
-JavaScript    6 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
-JSON          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-CSS           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Text          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-HTML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   12 hrs 45 mins  ██████████████████▓░░░░░░   74.07 %
+JavaScript   4 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
