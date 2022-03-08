@@ -1,12 +1,14 @@
-# Hi, I'm Luka 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
+# Hi, I'm Luka👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luka-momcilovic-2102b4226/)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lukamo1996.visitor-badge)
 
-Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) (CS) student at the University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). Before starting my CS studies I received a Bachelor's Degree in [Medical Laboratory Science](https://www.oslomet.no/studier/hv/bioingenioer) at Oslomet - Metropolitan University.
+My name is Luka Momcilovic and I'm a [Computer Science](https://www.uio.no/studier/program/informatikk-programmering/) student at University of Oslo's [Department of Informatics](https://www.mn.uio.no/ifi/english/). <br>
+Before starting my CS studies I received a Bachelor's Degree in [Medical Laboratory Science](https://www.oslomet.no/studier/hv/bioingenioer) at Oslomet - Metropolitan University.
 
-- ⛏ I’m currently working on a dating app ❤
-- 💡 I’m currently learning MySQL, Ionic and Aws-services (S3 precisely)
-- 🎨 Hobbies: 🎾 & 🏋️
+- I’m currently working on a dating app
+- I’m currently learning MySQL, Ionic and certain AWS-services
+- Hobbies: 🎾 & 🏋️
 
 ---
 
@@ -14,22 +16,23 @@ Hi! My name is Luka Momcilovic and I'm [Computer Science](https://www.uio.no/stu
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 6 mins   ████████████████████████▓   98.76 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   14 hrs 6 mins   ████████████████████████░   96.16 %
+JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
-
 <!--END_SECTION:waka-->
-<br>
+---
 
 📈 **My GitHub Stats:**
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lukamo1996&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukamo1996&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+---
 
 ### Languages
 <img align="left" alt="Python" width="26px" src="./icons/python.png" />
