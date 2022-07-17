@@ -17,9 +17,9 @@ Before starting my CS studies I received a Bachelor's Degree in [Medical Laborat
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 16 mins   ████████████████████▒░░░░   81.46 %
-JSON         1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript   4 hrs 47 mins   ████████████████████░░░░░   79.97 %
+JSON         1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
